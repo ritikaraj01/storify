@@ -1,0 +1,1 @@
+A web-based image library built using the MERN stack, enabling users to categorize and store images in a structured manner, eliminating the need to maintain numerous folder. It facilitates efficient sorting and retrieval of important images through a user-friendly interface.
